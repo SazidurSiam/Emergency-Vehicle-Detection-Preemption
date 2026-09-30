@@ -1,0 +1,5 @@
+metric,value
+precision,0.9854
+recall,0.9468
+F1,0.9657
+mAP50,0.9831
